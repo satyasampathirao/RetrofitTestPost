@@ -18,8 +18,6 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
 
-    //reference for code : https://www.journaldev.com/13639/retrofit-android-example-tutorial
-    //site to convert json to pojo:   http://www.jsonschema2pojo.org/
     TextView tvtest2;
     APIInterface apiInterface;
 
